@@ -1,0 +1,21 @@
+title: "GPT-6.1 国内使用渠道汇总：官方、Azure、Copilot、Poe、API 聚合站怎么选？"
+description: "国内怎么用 GPT-6.1 Sol？官方、Azure、Copilot、Poe、TryAllAPI 等渠道的优缺点、付款方式与风险一次讲清。"
+url: "https://xianyu110.github.io"
+baseurl: "/gpt-6-1-china-access-guide"
+lang: zh-CN
+locale: zh_CN
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+author:
+  name: Maynor
+  url: https://github.com/xianyu110
+twitter:
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://upload.maynor1024.live/file/1791182724044_gpt61-help-countries.jpg
